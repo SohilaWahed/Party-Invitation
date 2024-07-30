@@ -1,7 +1,5 @@
 # Party-Invitation
 website for displaying party invitations. The website shows the time remaining until the party begins, lists the singers who will be performing, and provides contact information for the organizing company.
-# Weather-3days
-A simple and responsive weather website that uses Bootstrap for styling and a weather API for fetching real-time weather data.
 
 ## Features
 
